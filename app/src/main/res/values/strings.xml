@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Indecisor</string>
+    <string name="title">Añade tu elemento, a ver que sale!</string>
+    <string name="btnText">Añadir</string>
+    <string name="resolveBtn">Resolver</string>
+
+    <string name="title_dialog">Decidido....</string>
+    <string name="close">Cerrar</string>
+</resources>
